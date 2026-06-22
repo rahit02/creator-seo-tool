@@ -2,7 +2,3 @@
   from = "/*"
   to = "/.netlify/functions/___netlify-handler"
   status = 200
-
-[plugins]
-  [[plugins]]
-    package = "@netlify/plugin-nextjs"
